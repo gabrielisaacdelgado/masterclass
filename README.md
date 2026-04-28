@@ -1,4 +1,5 @@
 Site simples que simula uma página de vendas de peças para computadores gamers.
+
 💻 Link para a visualização da aplicação: https://gabrielisaacdelgado.github.io/masterclass/
 
 <img width="1904" height="911" alt="image" src="https://github.com/user-attachments/assets/44b7f6e3-849d-4dec-8236-fded859766f4" />
